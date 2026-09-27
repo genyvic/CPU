@@ -1,0 +1,11 @@
+# Sums 1..10 into x11 (expect 55), then halts via ecall.
+# See tests_programs.cpp's program_loop_sum_1_to_5 for the annotated,
+# N=5 version of the same program.
+00a00513
+00000593
+00100613
+00c54863
+00c585b3
+00160613
+ff5ff06f
+00000073

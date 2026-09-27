@@ -1,0 +1,59 @@
+=== Coverage Report ===
+
+Instruction coverage: 40/40 (100%)
+Functional coverage (all coverpoints, excl. instruction): 100%
+
+--- Per-coverpoint summary ---
+  branch: 24/24 (100%)
+  cross_instr_sign: 40/40 (100%)
+  format: 6/6 (100%)
+  instruction: 40/40 (100%)
+  memory: 18/18 (100%)
+  operand: 336/336 (100%)
+  register_read: 32/32 (100%)
+  register_write: 32/32 (100%)
+
+--- Instructions ---
+  add: HIT     hits=94
+  addi: HIT     hits=154
+  and: HIT     hits=16
+  andi: HIT     hits=30
+  auipc: HIT     hits=1
+  beq: HIT     hits=8
+  bge: HIT     hits=43
+  bgeu: HIT     hits=3
+  blt: HIT     hits=9
+  bltu: HIT     hits=3
+  bne: HIT     hits=6
+  ebreak: HIT     hits=1
+  ecall: HIT     hits=123
+  fence: HIT     hits=1
+  jal: HIT     hits=35
+  jalr: HIT     hits=4
+  lb: HIT     hits=20
+  lbu: HIT     hits=22
+  lh: HIT     hits=23
+  lhu: HIT     hits=21
+  lui: HIT     hits=1
+  lw: HIT     hits=39
+  or: HIT     hits=28
+  ori: HIT     hits=31
+  sb: HIT     hits=38
+  sh: HIT     hits=38
+  sll: HIT     hits=20
+  slli: HIT     hits=49
+  slt: HIT     hits=26
+  slti: HIT     hits=21
+  sltiu: HIT     hits=23
+  sltu: HIT     hits=16
+  sra: HIT     hits=14
+  srai: HIT     hits=39
+  srl: HIT     hits=17
+  srli: HIT     hits=36
+  sub: HIT     hits=24
+  sw: HIT     hits=55
+  xor: HIT     hits=26
+  xori: HIT     hits=29
+
+--- COVERAGE HOLES (0) ---
+  none

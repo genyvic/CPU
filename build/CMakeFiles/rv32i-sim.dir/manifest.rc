@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/genyu/source/repos/CPU/build/CMakeFiles/rv32i-sim.dir/embed.manifest"

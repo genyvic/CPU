@@ -1,0 +1,9 @@
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/CMakeFiles/rv32i_core.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/CMakeFiles/rv32i-sim.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/tests/CMakeFiles/run_tests.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/tests/CMakeFiles/test.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/tests/CMakeFiles/edit_cache.dir
+C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/tests/CMakeFiles/rebuild_cache.dir

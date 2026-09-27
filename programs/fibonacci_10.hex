@@ -1,0 +1,14 @@
+# Computes fib(10) into x11 (expect 55) via the classic a,b iteration,
+# then halts via ecall. See tests_programs.cpp's program_fibonacci_10 for
+# the annotated version.
+00a00513
+00000593
+00100613
+00000693
+00a6dc63
+00c58733
+00060593
+00070613
+00168693
+fedff06f
+00000073

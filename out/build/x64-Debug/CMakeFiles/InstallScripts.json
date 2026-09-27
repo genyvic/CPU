@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/genyu/source/repos/CPU/out/build/x64-Debug/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
